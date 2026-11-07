@@ -39,8 +39,10 @@ The system consists of four primary relational tables connected via **One-to-Man
 ## Tables And Queries Image
 ![Alt, table and query](tables%20and%20query.png)
 
-## Relationships Graph
+## Relationships | "TblCustomers" - "TblProducts" - "TblSales" tables
 ![Alt, Relationships Graph image](Relationships.png)
 
 ## Report | Grouping By City
 ![Alt, Report](report%20(Grouping%20by%20city).png)
+
+## Form | inserting for "TblSales" and "TblCustomers" tables
