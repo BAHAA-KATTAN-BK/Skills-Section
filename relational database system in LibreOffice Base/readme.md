@@ -36,6 +36,11 @@ The system consists of four primary relational tables connected via **One-to-Man
 2. **`TblProducts`**: Tracks product inventory levels, pricing, and category classifications.
 3. **`TblSales`**: Serves as a junction table resolving the $M:N$ relationship between orders and products while keeping line-item sub-totals.
 
-## Table And Queries Image
+## Tables And Queries Image
 ![Alt, table and query](tables%20and%20query.png)
 
+## Relationships Graph
+![Alt, Relationships Graph image](Relationships.png)
+
+## Report | Grouping By City
+![Alt, Report](report%20(Grouping%20by%20city).png)
