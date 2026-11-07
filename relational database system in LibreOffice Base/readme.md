@@ -46,3 +46,4 @@ The system consists of four primary relational tables connected via **One-to-Man
 ![Alt, Report](report%20(Grouping%20by%20city).png)
 
 ## Form | inserting for "TblSales" and "TblCustomers" tables
+![Alt, Form](Form%20TblSales%20and%20CustomerTbl.png)
