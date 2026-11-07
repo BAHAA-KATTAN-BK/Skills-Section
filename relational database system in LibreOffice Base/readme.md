@@ -37,5 +37,5 @@ The system consists of four primary relational tables connected via **One-to-Man
 3. **`TblSales`**: Serves as a junction table resolving the $M:N$ relationship between orders and products while keeping line-item sub-totals.
 
 ## Table And Queries Image
-![Alt, table and query](relational database system in LibreOffice Base/tables and query.png)
+![Alt, table and query](tables%20and%20query.png)
 
